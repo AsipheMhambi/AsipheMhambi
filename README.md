@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asiphemhambi" alt="asiphemhambi" /></a> </p>
 
-- 🔭 I’m currently working on **React Personal Portfolio**
+- 🔭 I’m currently working on [React Personal Portfolio](react-portfolio-ec2d6.web.app)
 
 - 🌱 I’m currently learning **React Framework, Mango DB, and other Back-end Languages.**
+
+- 👨‍💻 All of my projects are available at [react-portfolio-ec2d6.web.app](react-portfolio-ec2d6.web.app)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
@@ -24,4 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiphemhambi&show_icons=true&locale=en&layout=compact" alt="asiphemhambi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiphemhambi&show_icons=true&locale=en" alt="asiphemhambi" /></p>
+
 
